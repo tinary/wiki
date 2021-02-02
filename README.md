@@ -12,8 +12,8 @@ This is my course submition for CS50's Web Programming with Python and JavaScrip
   * CSS
 
 * Main Framework/Libraries:
- * Django Templates
- * Bootstrap
+  * Django Templates
+  * Bootstrap
 
 ### Backend
 

@@ -1,0 +1,19 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+  Error
+{% endblock %}
+
+{% block body %}
+    <div>
+        <h1>Error page</h1>
+
+        {% if encyclopedia %}
+          <p>The page that you're looking for is not found, please try again!</p>
+        {% else %}
+          <p>The page you're creating is already exist, please try again!</p>
+        {% endif %}
+
+    </div>
+
+{% endblock %}

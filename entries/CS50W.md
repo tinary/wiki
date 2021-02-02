@@ -1,0 +1,1 @@
+# CS50WPicks up where [CS50](/wiki/CS50) leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap.

@@ -7,7 +7,6 @@ This is my course submition for CS50's Web Programming with Python and JavaScrip
 # Architecture
 ### Frontend
 * Languages:
-  * JavaScript
   * HTML
   * CSS
 

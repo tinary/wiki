@@ -21,3 +21,7 @@ This is my course submition for CS50's Web Programming with Python and JavaScrip
 
 * Main Framework/Libraries:
   * Django
+
+### Demo
+#### Link
+![Encyclopedia Entry Link Demo](encyclopedia/static/encyclopedia/link.gif)

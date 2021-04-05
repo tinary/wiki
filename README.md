@@ -22,6 +22,18 @@ This is my course submition for CS50's Web Programming with Python and JavaScrip
 * Main Framework/Libraries:
   * Django
 
-### Demo
-#### Link
+### Project Demo
+#### Encyclopedia Page Selections
 ![Encyclopedia Entry Link Demo](encyclopedia/static/encyclopedia/link.gif)
+
+#### Search Encyclopedia Entry Page
+![Encyclopedia Entry Link Demo](encyclopedia/static/encyclopedia/search.gif)
+
+#### Create New Encyclopedia Entry Page
+![Encyclopedia Entry Link Demo](encyclopedia/static/encyclopedia/create_page.gif)
+
+#### Edit Encyclopedia Entry Page
+![Encyclopedia Entry Link Demo](encyclopedia/static/encyclopedia/edit_page.gif)
+
+#### Select Random Encyclopedia Entry Page
+![Encyclopedia Entry Link Demo](encyclopedia/static/encyclopedia/random_page.gif)
